@@ -1,6 +1,3 @@
-# hytimes.github.io
-The premier newssite of the United Empire
-
 <!DOCTYPE html>
 <html>
  <title>The Hylian Times</title>
